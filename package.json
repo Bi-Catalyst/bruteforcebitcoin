@@ -1,0 +1,18 @@
+{
+  "name": "bruteforcebitcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node generate_wallet.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohamed Habbat <mohamed.habbat@bicatalyst.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^5.2.0"
+  }
+}
