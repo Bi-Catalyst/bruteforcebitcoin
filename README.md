@@ -55,4 +55,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Mohamed Habbat [<mohamed.habbat@bicatalyst.ch>](https://www.linkedin.com/in/mohamed-habbat/)https://www.linkedin.com/in/mohamed-habbat/
+Mohamed Habbat [Linkedin](https://www.linkedin.com/in/mohamed-habbat/)
