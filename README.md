@@ -21,7 +21,7 @@ This project is a Node.js script for generating Bitcoin wallets then checks the 
 1. Clone the repository:
 
     ```bash
-    git clone <https://github.com/your-username/bruteforcebitcoin.git>
+    git clone https://github.com/your-username/bruteforcebitcoin.git
     ```
 
 2. Navigate to the cloned directory:
